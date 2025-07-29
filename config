@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = uploader@example.com
+	name = OpenAI Uploader
+[remote "origin"]
+	url = https://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@github.com/ke4gmk/engulnuk-esp32-ml.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
